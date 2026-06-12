@@ -31,7 +31,7 @@ def display_banner():
               [ v2.0 • ULTIMATE MANAGER ]
 {RESET}
 {GREEN}{BOLD}  ► Developer : MD Imran Hossen (RANA VHAI)
-  ► GitHub    : github.com/RanaCoding-cs{RESET}"""
+  ► GitHub    : https://github.com/RanaCoding-cs{RESET}"""
     print(banner)
     print(f"{YELLOW}======================================================={RESET}")
 
