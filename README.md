@@ -41,10 +41,12 @@ Select an option (1-6):
 🛠️ Installation & Usage
 ​Prerequisites
 ​Make sure you have Python 3 installed on your system.
-​Step 1: Clone the Repository
+​
+Step 1: Clone the Repository
 
-git clone [https://github.com/rana-coding/your-repo-name.git](https://github.com/rana-coding/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/RanaCoding-cs/PASSGEN.git
+
+cd PASSGEN
 
 Step 2: Run the Tool
 ​Run the script directly via your terminal/command prompt:
@@ -59,9 +61,11 @@ python main.py
 ​Language: Python 3
 ​Modules Used: random, string, os, time (All built-in)
 ​Styling: ANSI Escape Codes for customized terminal colors and bold texts.
-​👑 Developer Credits
+​
+👑 Developer Credits
 ​Developer: MD Imran Hossen (Rana)
-​GitHub: @rana-coding
-​📄 License
+​GitHub: @RanaCoding-cs
+​
+📄 License
 ​This project is open-source and available under the MIT License.
 
