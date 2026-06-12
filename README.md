@@ -15,8 +15,8 @@ A smart, secure, and ultimate terminal-based password generation and management 
  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝
               [ v2.0 • ULTIMATE MANAGER ]
 
-  ► Developer : MD Imran Hossen (Rana)
-  ► GitHub    : [github.com/rana-coding](https://github.com/rana-coding)
+  ► Developer : MD Imran Hossen (RANA VHAI)
+  ► GitHub    : https://github.com/RanaCoding-cs
 =======================================================
 [1] Generate Password
 [2] Show Saved Passwords
@@ -28,7 +28,7 @@ A smart, secure, and ultimate terminal-based password generation and management 
 Select an option (1-6):
 
 
-🚀 Features
+##🚀 Features
 ​ASCII Block Banner: A stylish and hacker-themed terminal interface with custom developer branding.
 ​Smart Password Generation: Generates cryptographically secure passwords based on user-defined length and character types (Uppercase, Lowercase, Numbers, Special characters).
 ​Save Option Prompt: A pop-up/prompt style feature allowing users to choose whether to save the password to a text file (passwords.txt) or not.
@@ -36,7 +36,9 @@ Select an option (1-6):
 ​Secure Total Count: Shows the total number of passwords saved without revealing them on screen for maximum privacy.
 ​Indexed Removal System: Easily delete a specific password by entering its corresponding list number.
 ​Cross-Platform: Works smoothly on Windows, Linux, and macOS (auto-clears terminal screen seamlessly).
-​🛠️ Installation & Usage
+
+​```text
+🛠️ Installation & Usage
 ​Prerequisites
 ​Make sure you have Python 3 installed on your system.
 ​Step 1: Clone the Repository
@@ -49,17 +51,17 @@ Step 2: Run the Tool
 
 python main.py
 
-📂 File Structure
+##📂 File Structure
 ├── main.py          # The main python script containing the source code
 └── passwords.txt    # Local database file where passwords are saved (Auto-generated)
 
-💻 Tech Stack
+##💻 Tech Stack
 ​Language: Python 3
 ​Modules Used: random, string, os, time (All built-in)
 ​Styling: ANSI Escape Codes for customized terminal colors and bold texts.
 ​👑 Developer Credits
 ​Developer: MD Imran Hossen (Rana)
 ​GitHub: @rana-coding
-​📄 License
+​#📄 License
 ​This project is open-source and available under the MIT License.
 
